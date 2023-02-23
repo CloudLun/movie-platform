@@ -10,7 +10,7 @@ let localStorageLength = localStorage.length;
 for (let i = 0; i < localStorageLength; i++) {
   let getKey = localStorage.key(i);
   let getValue = JSON.parse(localStorage.getItem(getKey));
-  bookmarkedMovieTitles[i] = getValue.title;
+  // bookmarkedMovieTitles[i] = getValue.title;
   bookmarkedMoviesIndex[i] = getKey;
   bookmarkedMoviesStatus[i] = getValue.booked;
 }

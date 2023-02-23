@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/movie-platform/static/css/main.dc2e31df.css",
+    "main.js": "/movie-platform/static/js/main.16840b0e.js",
+    "static/js/787.196bc331.chunk.js": "/movie-platform/static/js/787.196bc331.chunk.js",
+    "static/media/large.jpg": "/movie-platform/static/media/large.7dbbfd3564efbdd81ccf.jpg",
+    "index.html": "/movie-platform/index.html",
+    "static/media/icon-nav-bookmark.svg": "/movie-platform/static/media/icon-nav-bookmark.a564501ebcbde752ebe044260a9206b8.svg",
+    "static/media/icon-nav-bookmark-clicked.svg": "/movie-platform/static/media/icon-nav-bookmark-clicked.404c0e35fe1111e856563459dcce2b8d.svg",
+    "static/media/icon-nav-movies.svg": "/movie-platform/static/media/icon-nav-movies.c347442f9a6fd2201f1abf8819aa4ef6.svg",
+    "static/media/icon-nav-movies-clicked.svg": "/movie-platform/static/media/icon-nav-movies-clicked.9c54fc041894a67543f2906141e9792a.svg",
+    "static/media/icon-bookmark-full.svg": "/movie-platform/static/media/icon-bookmark-full.361afed00144e45cd54d64697d9a877d.svg",
+    "static/media/icon-nav-home.svg": "/movie-platform/static/media/icon-nav-home.8acf660248afc7a27879c9c9bf218722.svg",
+    "static/media/icon-nav-home-clicked.svg": "/movie-platform/static/media/icon-nav-home-clicked.a028b8dc49fc1ae74f61fcc068fab9c7.svg",
+    "static/media/icon-search.svg": "/movie-platform/static/media/icon-search.cbc8d670ebd27b023c9868d5850d79c5.svg",
+    "static/media/logo.svg": "/movie-platform/static/media/logo.7d4aedc9f44f15655a966567c57a1f37.svg",
+    "static/media/icon-nav-tv-series.svg": "/movie-platform/static/media/icon-nav-tv-series.c22fe1629b446365f6f7829a014453f8.svg",
+    "static/media/icon-nav-tv-series-clicked.svg": "/movie-platform/static/media/icon-nav-tv-series-clicked.64768fafd16eb9b41545e4c8e3df26ae.svg",
+    "static/media/icon-play.svg": "/movie-platform/static/media/icon-play.8371f8d28787ad27a68ec37af3a6c7b0.svg",
+    "static/media/icon-bookmark-empty.svg": "/movie-platform/static/media/icon-bookmark-empty.20ce7177c045bbdbd7948bd9b4220c58.svg",
+    "main.dc2e31df.css.map": "/movie-platform/static/css/main.dc2e31df.css.map",
+    "main.16840b0e.js.map": "/movie-platform/static/js/main.16840b0e.js.map",
+    "787.196bc331.chunk.js.map": "/movie-platform/static/js/787.196bc331.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc2e31df.css",
+    "static/js/main.16840b0e.js"
+  ]
+}

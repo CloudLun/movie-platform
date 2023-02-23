@@ -33,13 +33,13 @@ function App() {
 
   const router = createBrowserRouter([
     {
-      path: "movie-platform/",
+      path: "/",
       element: (
         <Main unbooked={unbooked} bookedClickHandler={bookedClickHandler} />
       ),
     },
     {
-      path: "movie-platform/movies",
+      path: "/movies",
       element: (
         <MoviesPage
           unbooked={unbooked}
@@ -48,13 +48,13 @@ function App() {
       ),
     },
     {
-      path: "movie-platform/tvseries",
+      path: "/tvseries",
       element: (
         <TVPage unbooked={unbooked} bookedClickHandler={bookedClickHandler} />
       ),
     },
     {
-      path: "movie-platform/bookmark",
+      path: "/bookmark",
       element: (
         <BookmarkPage
           unbooked={unbooked}
